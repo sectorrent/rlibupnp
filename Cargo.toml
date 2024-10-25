@@ -1,0 +1,11 @@
+[package]
+name = "rlibupnp"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+roxmltree = "0.20.0"
+
+[lib]
+name = "rlibupnp"
+path = "src/lib.rs"
