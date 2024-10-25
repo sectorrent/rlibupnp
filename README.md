@@ -3,6 +3,8 @@ rlibupnp
 
 This is a Rust implementation of UPnP as a library. You can easily add this to your project.
 
+If you want to use the [Java](https://github.com/octorrent/jlibupnp) version.
+
 Implementation
 -----
 Below are some of the commands you can use:
