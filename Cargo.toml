@@ -2,6 +2,13 @@
 name = "rlibupnp"
 version = "0.1.0"
 edition = "2021"
+authors = ["DrBrad <brad@bradeagle.com>"]
+description = "Rust UPnP library"
+license = "MIT"
+repository = "https://github.com/sectorrent/rlibupnp"
+readme = "README.md"
+keywords = ["upnp", "port-forward"]
+categories = ["network-programming", "command-line-utilities"]
 
 [dependencies]
 roxmltree = "0.20.0"
