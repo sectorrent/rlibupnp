@@ -1,5 +1,5 @@
-mod upnp;
-mod utils;
+pub mod upnp;
+pub mod utils;
 
 #[cfg(test)]
 mod tests {
